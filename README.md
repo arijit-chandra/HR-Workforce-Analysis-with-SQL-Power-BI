@@ -46,8 +46,6 @@ This project analyzes and visualizes the distribution of employees within an org
 
 - **Gender Distribution by Department:** Gender distribution varies across departments, but there is a general trend of more male employees in most departments.
 
-- **Job Title Distribution:** [Distribution of job titles will be analyzed and added later]
-
 - **Turnover Rate:** **Auditing** has the highest turnover rate (16.00%).
 
 - **Employee Location by State:** A large number of employees reside in Ohio.
